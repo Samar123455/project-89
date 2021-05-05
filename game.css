@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://www.championtutor.com/blog/wp-content/uploads/2017/11/When-to-Get-a-Maths-Tutor-for-Your-Child.jpg");
+    text-align: center;
+}
+
+.login_div1{
+    background-color: aquamarine;
+}
+
+.login_div2{ 
+    background-color: aquamarine;  
+}
+
+#stylish{
+    font-style: inherit;
+}
